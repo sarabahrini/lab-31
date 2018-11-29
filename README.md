@@ -6,7 +6,7 @@
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [connect to store](hhttps://github.com/sarabahrini/lab-31.git)
+* [connect to store](https://github.com/sarabahrini/lab-31.git)
 * [create a new reducer](https://codesandbox.io/s/23xzmwjrjj)
 
 ### Modules
